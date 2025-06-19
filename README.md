@@ -1,4 +1,3 @@
-# Validation-Framework-for-Credit-Risk-Models
 # Model Risk Management: Validation Framework for Credit Risk Models
 
 This repository demonstrates an end-to-end model risk management (MRM) workflow, focusing on the validation of a Probability of Default (PD) model built using logistic regression on consumer credit data. The project is designed to simulate regulatory best practices (e.g., SR 11-7) and includes performance evaluation, population stability testing, and governance documentation.
